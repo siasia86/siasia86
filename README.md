@@ -5,26 +5,28 @@
 
 ### About Me
 
-- 🖥️ Linux 시스템 관리 및 보안 (Ubuntu, Rocky, Amazon Linux)
-- ☁️ AWS 인프라 설계 및 운영 (VPC, EC2, S3, NLB, Network Firewall)
-- 🔧 IaC / 자동화 (Ansible, Terraform, Molecule, Vagrant)
-- 🐳 컨테이너 (Docker, Kubernetes/k3s, Helm, ArgoCD)
-- 🔒 보안 (DDoS 방어 아키텍처, CVE 분석, XDP/eBPF, nftables, CrowdSec)
-- 📊 모니터링 (Prometheus, Grafana, Zabbix, ELK)
-- 🗄️ 데이터베이스 (MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch)
-- 🐍 Python 스크립팅 (보안 점검 도구, 자동화 스크립트)
-- 🔄 CI/CD (Jenkins, GitHub Actions, GitLab CI)
+-  Linux 시스템 관리 및 보안 (Ubuntu, Rocky, Amazon Linux)
+-  AWS 인프라 설계 및 운영 (VPC, EC2, S3, NLB, Network Firewall)
+-  IaC / 자동화 (Ansible, Terraform, Molecule, Vagrant)
+-  컨테이너 (Docker, Kubernetes/k3s, Helm, ArgoCD)
+-  보안 (DDoS 방어 아키텍처, CVE 분석, XDP/eBPF, nftables, CrowdSec)
+-  모니터링 (Prometheus, Grafana, Zabbix, ELK)
+-  데이터베이스 (MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch)
+-  Python 스크립팅 (보안 점검 도구, 자동화 스크립트)
+-  CI/CD (Jenkins, GitHub Actions, GitLab CI)
 
 ### Featured Work
 
 - **2026**
   - Linux Kernel CVE 분석 및 문서화 (Copy Fail, Dirty Frag)
-  - DDoS 방어 아키텍처 설계 (XDP/eBPF + CrowdSec + HAProxy)
+#- DDoS 방어 아키텍처 설계 (XDP/eBPF + CrowdSec + HAProxy)
   - Ansible 멀티 OS 테스트 환경 구축 (Molecule + Vagrant)
-  - Grafana + GitLab 잔디 시각화 대시보드
 - **2025**
   - 시스템 엔지니어링 학습 자료 저장소 구축 (150+ 문서)
   - AWS Network Firewall 기반 게임 서버 보안 운영
+- **2020**
+  - Zabbix + Grafana 시스템 모니터링 도입 및 운영
+  - 사내 wiki site 도입 및 운영
 
 ### Tech Stack
 
