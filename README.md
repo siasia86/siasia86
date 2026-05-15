@@ -21,24 +21,26 @@
   - Linux Kernel CVE 분석 및 문서화 (Copy Fail, Dirty Frag)
   - DDoS 방어 아키텍처 설계 (XDP/eBPF + CrowdSec + HAProxy)
   - Ansible 멀티 OS 테스트 환경 구축 (Molecule + Vagrant)
+  - Ansible 교육 자료 제작 (Docker/Compose/Molecule/Vagrant 단계별 실습)
+  - Ansible 실무 도입 (서버 구성 자동화, 멀티 OS 배포) — 예정
 - **2025**
   - 시스템 엔지니어링 학습 자료 저장소 구축 (150+ 문서)
   - AWS Network Firewall 기반 게임 서버 보안 운영
   - 3-tier 백업 자동화 구축 (Local → Remote → S3, RPO/RTO 단축 + 트래픽 분산)
 - **2024**
-  -
+  - 
 - **2023**
   - 
 - **2022**
   - 
 - **2021**
-  - 프로젝트 M CentOS-5 에서 Amazon Linux 2 (CentOS 7) 마이그레이션 (OS, DB 담당 // 소스는 개발자가 진행)
+  - 게임 서버 OS 마이그레이션 (CentOS 5 → Amazon Linux 2, OS/DB 담당)
 - **2020**
-  - Zabbix + Grafana 시스템 모니터링 도입 및 운영
-  - 사내 wiki site 도입 및 운영
-- **기본**
-  - IDC 운영
-  - Apache + PHP + MySQL 서버 호스팅
+  - Zabbix + Grafana 모니터링 시스템 도입 및 운영 (서버 100대+, 알림 자동화)
+  - 사내 Wiki 시스템 도입 및 운영 (Media wiki, 기술 문서 표준화)
+- **2020 이전**
+  - IDC 서버 운영 및 물리 인프라 관리 (랙/네트워크/장애 대응)
+  - APM 호스팅 환경 구축 및 운영 (Apache/Nginx + PHP + MySQL)
 
 ### Tech Stack
 
@@ -54,7 +56,7 @@
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="36" height="36"/><br /><sub><b>Grafana</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg" width="36" height="36"/><br /><sub><b>Zabbix</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Zabbix-D00000?logo=zabbix&logoColor=white" height="28"/><br /><sub><b>Zabbix</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="36" height="36"/><br /><sub><b>Prometheus</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="36" height="36"/><br /><sub><b>ELK</b></sub></td>
   </tr>
@@ -72,7 +74,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36" height="36"/><br /><sub><b>Apache</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haproxy/haproxy-original.svg" width="36" height="36"/><br /><sub><b>HAProxy</b></sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/HAProxy-003366?logo=haproxy&logoColor=white" height="28"/><br /><sub><b>HAProxy</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" height="36"/><br /><sub><b>GitLab</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36"/><br /><sub><b>Git</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" height="36"/><br /><sub><b>Jenkins</b></sub></td>
