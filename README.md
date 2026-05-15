@@ -19,7 +19,7 @@
 
 - **2026**
   - Linux Kernel CVE 분석 및 문서화 (Copy Fail, Dirty Frag)
-//- DDoS 방어 아키텍처 설계 (XDP/eBPF + CrowdSec + HAProxy)
+<!-- - DDoS 방어 아키텍처 설계 (XDP/eBPF + CrowdSec + HAProxy) -->
   - Ansible 멀티 OS 테스트 환경 구축 (Molecule + Vagrant)
 - **2025**
   - 시스템 엔지니어링 학습 자료 저장소 구축 (150+ 문서)
@@ -37,23 +37,23 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="36" height="36"/><br /><sub><b>Ansible</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" height="36"/><br /><sub><b>Terraform</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36"/><br /><sub><b>Docker</b></sub></td>
-//    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36"/><br /><sub><b>Kubernetes</b></sub></td>
+<!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36"/><br /><sub><b>Kubernetes</b></sub></td> -->
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/><br /><sub><b>Python</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="36" height="36"/><br /><sub><b>Grafana</b></sub></td>
-//    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="36" height="36"/><br /><sub><b>Prometheus</b></sub></td>
+<!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="36" height="36"/><br /><sub><b>Prometheus</b></sub></td> -->
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" height="36"/><br /><sub><b>Nginx</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/><br /><sub><b>MySQL</b></sub></td>
-//    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36"/><br /><sub><b>Redis</b></sub></td>
+<!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36"/><br /><sub><b>Redis</b></sub></td> -->
   </tr>
   <tr>
-//    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" height="36"/><br /><sub><b>Jenkins</b></sub></td>
+<!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" height="36"/><br /><sub><b>Jenkins</b></sub></td> -->
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36"/><br /><sub><b>Git</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36"/><br /><sub><b>Bash</b></sub></td>
-//    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36"/><br /><sub><b>PostgreSQL</b></sub></td>
-//    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36"/><br /><sub><b>MongoDB</b></sub></td>
-//    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="36" height="36"/><br /><sub><b>ArgoCD</b></sub></td>
+<!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36"/><br /><sub><b>PostgreSQL</b></sub></td> -->
+<!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36"/><br /><sub><b>MongoDB</b></sub></td> -->
+<!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="36" height="36"/><br /><sub><b>ArgoCD</b></sub></td> -->
   </tr>
 </table>
 
